@@ -13,6 +13,9 @@ __Description:__ Inside the VM home directory (/home/vagrant), I created a custo
 
 # Manage File Permissions and Ownership
 Screenshot #3a: File permission change
+![Screenshot (29)](https://github.com/user-attachments/assets/6b245dbc-1b35-419e-8399-7cc8e91bd8db)
+
+
 ![Screenshot (27)](https://github.com/user-attachments/assets/21c278c3-dad7-4734-b85c-ac1e60ff8eb7)
 ![Screenshot (26)](https://github.com/user-attachments/assets/dd5ff685-cc38-4e5d-808d-3634cd9c88e4)
 ![Screenshot (25)](https://github.com/user-attachments/assets/8cbed2dd-951b-4df9-a1cc-1a81f4d081be)
