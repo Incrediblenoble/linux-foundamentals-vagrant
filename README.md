@@ -4,8 +4,7 @@ Kodecamp Task 2
 Screenshot #1: Vagrant initialization and SSH login
 ![Screenshot (22)](https://github.com/user-attachments/assets/814345d2-debe-4ab6-97b8-3f028451dae1)
 ![Screenshot (21)](https://github.com/user-attachments/assets/aa396a9e-8514-474b-9861-e3d06b6caed8)
-# Description:
-I initialized a new Vagrant environment using the generic/alpine318 box with vagrant init generic/alpine318. To optimize performance on my low-memory PC, I updated the Vagrantfile to allocate only 1 CPU and 128MB of RAM. After running vagrant up, I successfully booted the virtual machine and accessed it via SSH. The prompt confirms I am inside the VM at the /home/vagrant directory.
+__Description:__ I initialized a new Vagrant environment using the generic/alpine318 box with vagrant init generic/alpine318. To optimize performance on my low-memory PC, I updated the Vagrantfile to allocate only 1 CPU and 128MB of RAM. After running vagrant up, I successfully booted the virtual machine and accessed it via SSH. The prompt confirms I am inside the VM at the /home/vagrant directory.
 
 ![Screenshot (27)](https://github.com/user-attachments/assets/21c278c3-dad7-4734-b85c-ac1e60ff8eb7)
 ![Screenshot (26)](https://github.com/user-attachments/assets/dd5ff685-cc38-4e5d-808d-3634cd9c88e4)
