@@ -23,7 +23,6 @@ __Screenshot #3a:__ File permission change
 # Install and Configure a Package
 __Screenshot #4:__ Package installation and version check
 
-![Uploading image.png…]()
 ![Screenshot (26)](https://github.com/user-attachments/assets/dd5ff685-cc38-4e5d-808d-3634cd9c88e4)
 __Description:__ I installed the curl utility using Alpine’s package manager with the command sudo apk add curl. After the installation, I verified the installed version using curl --version, which confirmed that version 8.5.0 was successfully installed.
 
